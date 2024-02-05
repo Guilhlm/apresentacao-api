@@ -1,0 +1,26 @@
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.exe.config
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.exe
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\PokemonAPI.pdb
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.AssemblyReference.cache
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.Properties.Resources.resources
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.GenerateResource.cache
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.csproj.CopyComplete
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.exe
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.pdb
+C:\Users\Paulo Henrique\source\repos\PokemonAPI\PokemonAPI\obj\Debug\PokemonAPI.Pokedex.resources
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\bin\Debug\PokemonAPI.exe.config
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\bin\Debug\PokemonAPI.exe
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\bin\Debug\PokemonAPI.pdb
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.Pokedex.resources
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.Properties.Resources.resources
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.csproj.GenerateResource.cache
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.csproj.CopyComplete
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.exe
+C:\Users\guilherme.lmaia\source\repos\pokedex\pokemon\PokemonAPI\obj\Debug\PokemonAPI.pdb
